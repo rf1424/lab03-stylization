@@ -1,3 +1,22 @@
+
+## My Shaders
+Simple two-tone toon shading
+</br>
+<img src="Stylized2.png" width="500"/>
+
+Leveled-up toon shading
+</br>
+<img src="Stylized1.png" width="500"/>
+
+Stylized Shadow
+</br>
+<img src="Stylized0.png" width="500"/>
+
+Extra Credit: Smooth transitions between color bands
+</br>
+<img src="StylizedSmooth.png" width="500"/>
+
+
 # Lab 05 - Stylization!
 Let's practice adding stylization to a 3D scene using Unity's shader graph!
 
